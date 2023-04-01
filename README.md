@@ -1,0 +1,2 @@
+# bitcoingenerator
+Bitcoin Flash Tool
